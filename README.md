@@ -20,5 +20,5 @@ Feature Selection
 
 Model Training - Techniques analysed are Decision Tree, Random Forest, Logistic Regression and SVM
 
-Evaluation - Cross Validation
+Evaluation - K-Fold Cross Validation
 
